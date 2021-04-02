@@ -1,4 +1,4 @@
-# Welcome to Pictures of Cants and Dogs
+# Welcome to Pictures of Cats and Dogs
 
 
 
@@ -26,25 +26,3 @@ I dont know yet how to display Pictures to see right away, so i put the Pictures
 - 3.[Picture of Dogs](https://imgur.com/2VgBeR9)
 
 
-i noticed the difference between 
-
-- this
-- and
-- that
-
-but i also noticed the difference between
-
-1. this 
-2. and
-3. that
-
-
-
-
-here is one more i noticed by accident
-
-- 1. this
-- 2. and
-- 3. that
-
-slow but steady.
