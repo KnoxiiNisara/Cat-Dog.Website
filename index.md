@@ -16,8 +16,8 @@ I dont know yet how to display Pictures to see right away, so i put the Pictures
 ## This Section is for Cats only
 
 - 1.[Picture of Cats](https://imgur.com/uLN0uKI)
-- 2. [Picture of Cats](https://imgur.com/gbjllq8)
-- 3. [Picture of Cats](https://imgur.com/5Sa6GN6)
+- 2.[Picture of Cats](https://imgur.com/gbjllq8)
+- 3.[Picture of Cats](https://imgur.com/5Sa6GN6)
 
 ## This Section is for Dogs only
 
