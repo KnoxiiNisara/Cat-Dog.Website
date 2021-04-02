@@ -15,14 +15,27 @@ I dont know yet how to display Pictures to see right away, so i put the Pictures
 
 ## This Section is for Cats only
 
-- [1st Picture of Cats](https://imgur.com/uLN0uKI)
-- [2nd Picture of Cats](https://imgur.com/gbjllq8)
-- [3rd Picture of Cats](https://imgur.com/5Sa6GN6)
+- 1.[Picture of Cats](https://imgur.com/uLN0uKI)
+- 2. [Picture of Cats](https://imgur.com/gbjllq8)
+- 3. [Picture of Cats](https://imgur.com/5Sa6GN6)
 
 ## This Section is for Dogs only
 
-- [1st Picture of Dogs](https://imgur.com/y7F8OEh)
-- [2nd Picture of Dogs](https://imgur.com/cn01y2O)
-- [3rd Picture of Dogs](https://imgur.com/2VgBeR9)
+- 1.[Picture of Dogs](https://imgur.com/y7F8OEh)
+- 2.[Picture of Dogs](https://imgur.com/cn01y2O)
+- 3.[Picture of Dogs](https://imgur.com/2VgBeR9)
 
 
+i noticed the difference between 
+
+- this
+- and
+- that
+
+but i also noticed the difference between
+
+1. this 
+2. and
+3. that
+
+slow but steady.
