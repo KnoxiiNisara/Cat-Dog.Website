@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to Pictures of Cants and Dogs
 
-You can use the [editor on GitHub](https://github.com/KnoxiiNisara/Cat-Dog.Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+I dont know yet how to display Pictures to see right away, so i put the Pictures on Imgur and have a Link here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## This Section is for Cats and Dogs
 
-```markdown
-Syntax highlighted code block
+- 1.[Picture of Cats and Dogs](https://imgur.com/drAI8X4)
+- 2.[Picture of Cats and Dogs](https://imgur.com/emGVCUH)
+- 3.[Picture of Cats and Dogs](https://imgur.com/BC9eNM3)
+- 4.[Picture of Cats and Dogs](https://imgur.com/Gylxs3e)
+- 5.[Picture of Cats and Dogs](https://imgur.com/D53GR0i)
+- 6.[Picture of Cats and Dogs](https://imgur.com/UVUsfex)
 
-# Header 1
-## Header 2
-### Header 3
+## This Section is for Cats only
 
-- Bulleted
-- List
+- [1st Picture of Cats](https://imgur.com/uLN0uKI)
+- [2nd Picture of Cats](https://imgur.com/gbjllq8)
+- [3rd Picture of Cats](https://imgur.com/5Sa6GN6)
 
-1. Numbered
-2. List
+## This Section is for Dogs only
 
-**Bold** and _Italic_ and `Code` text
+- [1st Picture of Dogs](https://imgur.com/y7F8OEh)
+- [2nd Picture of Dogs](https://imgur.com/cn01y2O)
+- [3rd Picture of Dogs](https://imgur.com/2VgBeR9)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KnoxiiNisara/Cat-Dog.Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
